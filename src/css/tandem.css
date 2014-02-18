@@ -790,6 +790,11 @@ width: 200px;
 margin-right:24px;
 }
 
+.login_form .ui-combobox{
+	float:left;
+	clear:left;
+}
+
 
 /* Footer */
 
